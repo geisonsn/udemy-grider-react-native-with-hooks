@@ -3,8 +3,11 @@ import React from 'react';
 const BlogContext = React.createContext();
 
 export const BlogProvider = ({ children }) => {
+
+  const blogPosts = [{title: 'Blog Post #1'}, {title: 'Blog Post #2'}];
+
   return (
-    <BlogContext.Provider value={["Sharing data with child component"]}>{children}</BlogContext.Provider>
+    <BlogContext.Provider value={blogPosts}>{children}</BlogContext.Provider>
   );
 };
 

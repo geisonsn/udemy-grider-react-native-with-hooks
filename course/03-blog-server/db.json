@@ -1,0 +1,12 @@
+{
+  "blogposts": [
+    {
+      "title": "Post 1",
+      "content": "Content from Post 1"
+    },
+    {
+      "title": "Post 2232",
+      "content": "Content from Post 2"
+    }
+  ]
+}

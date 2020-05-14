@@ -7,13 +7,8 @@
     },
     {
       "title": "Post 2",
-      "content": "Post 2 content ",
+      "content": "Content 2",
       "id": 2
-    },
-    {
-      "title": "Post 3",
-      "content": "Post 3 content ",
-      "id": 3
     }
   ]
 }
